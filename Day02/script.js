@@ -18,7 +18,6 @@ function fibonacci(n) {
 fibonacci(3);
 
 */
-
 // Function to reverse a number
 function reverseNumber(num) {
   let reversed = 0;
